@@ -1,6 +1,1 @@
-This Github project contains following files:
-1.	Dataset file in Excel.
-2.	Questions for analysis.
-3.	A pdf file with DAX functions.
-4.	A Report created using power BI Desktop
-5.	A Dashboard created using power BI service.
+Analyzing a global health expenditure dataset using Power BI Desktop began with importing and cleaning the data to ensure accuracy. The application of DAX functions facilitated the creation of advanced calculations for a more profound understanding of the dataset. Visualizations were then developed to effectively represent trends and patterns in global health expenditure. Extracting valuable insights was a key focus, aiding in the identification and comprehension of significant factors. To present these findings, a dynamic Power BI Service dashboard was crafted, allowing for real-time exploration and interaction with the global health expenditure data. This approach provided a comprehensive overview, supporting informed decision-making in the realm of global healthcare spending.
