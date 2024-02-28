@@ -1,0 +1,7 @@
+This Github project contains following files:
+1.	Dataset file in Excel.
+2.	Questions for analysis.
+3.	A pdf file with DAX functions.
+4.	A Report created using power BI Desktop
+5.	A Dashboard created using power BI service.
+(link to power BI Service: https://app.powerbi.com/groups/me/dashboards/756dcfe6-efe4-4449-8450-182ce1738f2d?experience=power-bi - Power BI )
